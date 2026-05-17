@@ -34,9 +34,9 @@ common:
     url: https://www.firstcitizens.com/about-us/news/cit
   - type: Investor Relations
     url: https://ir.firstcitizens.com/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.firstcitizens.com/legal/web-privacy
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.firstcitizens.com/legal/online-terms-of-service
   - type: Support
     url: https://www.firstcitizens.com/contact-us
