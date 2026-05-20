@@ -26,6 +26,8 @@ description: >-
   for the combined institution are now exposed through First Citizens Bank.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/citgroup
   - type: Website
     url: https://www.firstcitizens.com/commercial
   - type: Acquirer
