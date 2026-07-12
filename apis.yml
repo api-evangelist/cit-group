@@ -27,6 +27,10 @@ description: >-
   for the combined institution are now exposed through First Citizens Bank.
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/cit-group-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/cit-group-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/citgroup
   - type: Website
