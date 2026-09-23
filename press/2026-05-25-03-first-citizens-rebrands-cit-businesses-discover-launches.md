@@ -1,7 +1,9 @@
 ---
 title: First Citizens rebrands CIT businesses, Discover launches ...
 url: https://www.americanbanker.com/list/first-citizens-rebrands-cit-businesses-discover-launches-new-campaign
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CIT Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

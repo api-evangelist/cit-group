@@ -1,7 +1,9 @@
 ---
 title: First Citizens Completes Merger With CIT Group
 url: https://www.prnewswire.com/news-releases/first-citizens-completes-merger-with-cit-group-301453104.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CIT Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

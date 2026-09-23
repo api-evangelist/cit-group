@@ -1,7 +1,9 @@
 ---
 title: 'Research Update: CIT Group Inc. Ratings Placed On'
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/11704974
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CIT Group" press release artificial intelligence'
 position: 4
 source: serpapi-google
