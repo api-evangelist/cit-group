@@ -24,6 +24,10 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cit-group.png
 name: CIT Group
 url: https://raw.githubusercontent.com/api-evangelist/cit-group/refs/heads/main/apis.yml
+x-status: acquired
+x-acquired-by: first-citizens-bancshares
+x-acquired: '2022-01'
+x-status-note: 'First Citizens BancShares completed its merger with CIT Group on 2022-01-04; CIT operates as a division of First Citizens Bank. Source: https://www.firstcitizens.com/m-a/cit (roadmap#911).'
 created: '2026-03-23'
 modified: '2026-04-23'
 type: Index
@@ -35,9 +39,10 @@ tags:
   - Commercial Lending
   - Equipment Finance
   - Factoring
-  - Financial-Services
+  - Financial Services
   - Leasing
   - Fortune 1000
+  - Acquired
 tags_raw:
   - Banking
   - Commercial Lending
@@ -46,6 +51,8 @@ tags_raw:
   - Financial Services
   - Leasing
   - Fortune 1000
+  - Financial-Services
+  - Acquired
 description: >-
   CIT Group was a US financial holding company providing commercial financing,
   equipment leasing, factoring, and middle-market banking services. CIT was
